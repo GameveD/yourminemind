@@ -1,4 +1,4 @@
 Сайт MineМнения
 ============
-Пытаемся создать вместе сайт MineМнения.
-Наш паблик: http://vk.com/yourminemind
+<div>Пытаемся создать вместе сайт MineМнения.</div>
+<div>Наш паблик: http://vk.com/yourminemind</div>
